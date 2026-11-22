@@ -33,17 +33,6 @@
 | **Themes & Language** | Light / dark theme, English and Indonesian |
 | **Safe Installer** | Checks root, arch, kernel, KALLSYMS and binaries before installing |
 
-## How It Works
-
-```mermaid
-flowchart LR
-    A[Flash module] --> B[Reboot]
-    B --> C[Open WebUI]
-    C --> D[Patch kernel]
-    D --> E[Reboot]
-    E --> F[Load .kpm modules]
-```
-
 ## Requirements
 
 - Magisk or KernelSU (APatch is **not** supported)
@@ -64,6 +53,11 @@ flowchart LR
 
 > [!WARNING]
 > Patching a kernel can cause a bootloop if done wrong. Always back up your boot image first. Use at your own risk.
+
+## Roadmap
+
+- [x] WebUI for Magisk and KernelSU
+- [ ] APK version (maybe, if I have free time)
 
 ## Credits
 
