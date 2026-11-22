@@ -65,11 +65,6 @@ flowchart LR
 > [!WARNING]
 > Patching a kernel can cause a bootloop if done wrong. Always back up your boot image first. Use at your own risk.
 
-## Roadmap
-
-- [x] WebUI for Magisk and KernelSU
-- [ ] APK version (maybe, if I have free time)
-
 ## Credits
 
 The module is made by **Txn2zMinify**. The binaries are **not made by me**. All credit goes to the original authors:
