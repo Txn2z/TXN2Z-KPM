@@ -1,0 +1,9 @@
+id=Txn2z-KPM
+name=TXN2Z KPM
+version=v1.0.0
+versionCode=1
+author=Txn2zMinify
+description=KernelPatch Module (KPM) loader for Magisk and KernelSU. Patch your kernel, load .kpm modules and manage everything from the WebUI. arm64 only.
+updateJson=
+banner=banner.jpg
+webuiIcon=banner.jpg
