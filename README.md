@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-rounded.png" alt="TXN2Z KPM" width="100%">
+<img src="assets/banner-4dp.png" alt="TXN2Z KPM" width="100%">
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ## Preview
 
-<img src="assets/preview-rounded.png" alt="TXN2Z KPM preview" width="100%">
+<img src="assets/preview-4dp.png" alt="TXN2Z KPM preview" width="100%">
 
 ## Features
 
